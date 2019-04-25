@@ -1,0 +1,9 @@
+# Ignore everything
+*
+# whitelist subdirectories
+!*\
+
+# whitelist the following extensions
+!*.ipynb
+!*.do
+!*.gitignore
